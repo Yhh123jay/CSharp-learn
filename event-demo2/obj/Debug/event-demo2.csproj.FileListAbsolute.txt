@@ -1,0 +1,7 @@
+E:\dotnetProjects\event-demo2\bin\Debug\event-demo2.exe.config
+E:\dotnetProjects\event-demo2\bin\Debug\event-demo2.exe
+E:\dotnetProjects\event-demo2\bin\Debug\event-demo2.pdb
+E:\dotnetProjects\event-demo2\obj\Debug\event-demo2.csproj.AssemblyReference.cache
+E:\dotnetProjects\event-demo2\obj\Debug\event-demo2.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\event-demo2\obj\Debug\event-demo2.exe
+E:\dotnetProjects\event-demo2\obj\Debug\event-demo2.pdb

@@ -1,0 +1,16 @@
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.csproj.AssemblyReference.cache
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.AssemblyInfoInputs.cache
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.AssemblyInfo.cs
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\Event-defineEvent.exe
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\Event-defineEvent.deps.json
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\Event-defineEvent.runtimeconfig.json
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\Event-defineEvent.runtimeconfig.dev.json
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\Event-defineEvent.dll
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\ref\Event-defineEvent.dll
+E:\dotnetProjects\EventExample\Event-defineEvent\bin\Debug\net5.0\Event-defineEvent.pdb
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.dll
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\ref\Event-defineEvent.dll
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.pdb
+E:\dotnetProjects\EventExample\Event-defineEvent\obj\Debug\net5.0\Event-defineEvent.genruntimeconfig.cache

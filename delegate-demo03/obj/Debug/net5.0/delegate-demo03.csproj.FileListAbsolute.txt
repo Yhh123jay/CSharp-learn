@@ -1,0 +1,16 @@
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\delegate-demo03.exe
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\delegate-demo03.deps.json
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\delegate-demo03.runtimeconfig.json
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\delegate-demo03.runtimeconfig.dev.json
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\delegate-demo03.dll
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\ref\delegate-demo03.dll
+E:\dotnetProjects\EventExample\delegate-demo03\bin\Debug\net5.0\delegate-demo03.pdb
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.csproj.AssemblyReference.cache
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.AssemblyInfoInputs.cache
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.AssemblyInfo.cs
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.dll
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\ref\delegate-demo03.dll
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.pdb
+E:\dotnetProjects\EventExample\delegate-demo03\obj\Debug\net5.0\delegate-demo03.genruntimeconfig.cache

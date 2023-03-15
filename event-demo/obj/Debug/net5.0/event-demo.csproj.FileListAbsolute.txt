@@ -1,0 +1,16 @@
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.csproj.AssemblyReference.cache
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.AssemblyInfoInputs.cache
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.AssemblyInfo.cs
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\event-demo.exe
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\event-demo.deps.json
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\event-demo.runtimeconfig.json
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\event-demo.runtimeconfig.dev.json
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\event-demo.dll
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\ref\event-demo.dll
+E:\dotnetProjects\event-demo\bin\Debug\net5.0\event-demo.pdb
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.dll
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\ref\event-demo.dll
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.pdb
+E:\dotnetProjects\event-demo\obj\Debug\net5.0\event-demo.genruntimeconfig.cache
