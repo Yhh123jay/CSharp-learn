@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8CSU6VRsrMhhxYH3dv4xwl7evVWFhUQqSpnHNVpkXsmpJi+vTDEyPdB4BenJHULz/lnNedYkHvvQrI9xzJKIw==",
+  "success": true,
+  "projectFilePath": "E:\\dotnetProjects\\EventExample\\DI-依赖注入容器\\DI-依赖注入容器.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

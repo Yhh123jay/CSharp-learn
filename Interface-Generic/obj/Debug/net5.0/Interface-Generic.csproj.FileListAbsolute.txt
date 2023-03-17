@@ -1,0 +1,16 @@
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.csproj.AssemblyReference.cache
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.AssemblyInfoInputs.cache
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.AssemblyInfo.cs
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\Interface-Generic.exe
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\Interface-Generic.deps.json
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\Interface-Generic.runtimeconfig.json
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\Interface-Generic.runtimeconfig.dev.json
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\Interface-Generic.dll
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\ref\Interface-Generic.dll
+E:\dotnetProjects\EventExample\Interface-Generic\bin\Debug\net5.0\Interface-Generic.pdb
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.dll
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\ref\Interface-Generic.dll
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.pdb
+E:\dotnetProjects\EventExample\Interface-Generic\obj\Debug\net5.0\Interface-Generic.genruntimeconfig.cache

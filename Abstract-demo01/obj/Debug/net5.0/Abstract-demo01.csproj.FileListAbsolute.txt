@@ -1,0 +1,16 @@
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\Abstract-demo01.exe
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\Abstract-demo01.deps.json
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\Abstract-demo01.runtimeconfig.json
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\Abstract-demo01.runtimeconfig.dev.json
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\Abstract-demo01.dll
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\ref\Abstract-demo01.dll
+E:\dotnetProjects\EventExample\Abstract-demo01\bin\Debug\net5.0\Abstract-demo01.pdb
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.csproj.AssemblyReference.cache
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.AssemblyInfoInputs.cache
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.AssemblyInfo.cs
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.dll
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\ref\Abstract-demo01.dll
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.pdb
+E:\dotnetProjects\EventExample\Abstract-demo01\obj\Debug\net5.0\Abstract-demo01.genruntimeconfig.cache

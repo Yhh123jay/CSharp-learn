@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Abstract-demo01/1.0.0": {
+        "runtime": {
+          "Abstract-demo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract-demo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

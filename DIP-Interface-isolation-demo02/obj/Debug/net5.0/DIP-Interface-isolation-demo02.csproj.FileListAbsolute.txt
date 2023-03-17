@@ -1,0 +1,15 @@
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\DIP-Interface-isolation-demo02.exe
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\DIP-Interface-isolation-demo02.deps.json
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\DIP-Interface-isolation-demo02.runtimeconfig.json
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\DIP-Interface-isolation-demo02.runtimeconfig.dev.json
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\DIP-Interface-isolation-demo02.dll
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\ref\DIP-Interface-isolation-demo02.dll
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\bin\Debug\net5.0\DIP-Interface-isolation-demo02.pdb
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.AssemblyInfoInputs.cache
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.AssemblyInfo.cs
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.dll
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\ref\DIP-Interface-isolation-demo02.dll
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.pdb
+E:\dotnetProjects\EventExample\DIP-Interface-isolation-demo02\obj\Debug\net5.0\DIP-Interface-isolation-demo02.genruntimeconfig.cache

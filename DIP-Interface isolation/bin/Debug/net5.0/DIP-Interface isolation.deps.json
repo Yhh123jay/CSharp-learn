@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIP-Interface isolation/1.0.0": {
+        "runtime": {
+          "DIP-Interface isolation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIP-Interface isolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmPF4moC7L1XnXfXE5bsIMmMqd39Nfz09PusQiSmjVhh2KsTbi+ief5sGw93tSeq/nwFAVJIJyYM5QJBJxa7BQ==",
+  "success": true,
+  "projectFilePath": "E:\\dotnetProjects\\EventExample\\DI-Demo01\\DI-Demo01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

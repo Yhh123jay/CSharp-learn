@@ -1,0 +1,16 @@
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\DIP-Units.exe
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\DIP-Units.deps.json
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\DIP-Units.runtimeconfig.json
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\DIP-Units.runtimeconfig.dev.json
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\DIP-Units.dll
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\ref\DIP-Units.dll
+E:\dotnetProjects\EventExample\DIP-Units\bin\Debug\net5.0\DIP-Units.pdb
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.csproj.AssemblyReference.cache
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.AssemblyInfoInputs.cache
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.AssemblyInfo.cs
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.dll
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\ref\DIP-Units.dll
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.pdb
+E:\dotnetProjects\EventExample\DIP-Units\obj\Debug\net5.0\DIP-Units.genruntimeconfig.cache
